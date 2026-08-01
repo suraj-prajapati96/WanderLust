@@ -305,8 +305,8 @@ This project is developed for educational purposes only and is not affiliated wi
 
 **Suraj Prajapati**
 
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- GitHub: https://github.com/suraj-prajapati96
+- LinkedIn: https://linkedin.com/in/suraj-prajapati96
 
 ---
 
